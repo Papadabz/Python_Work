@@ -1,0 +1,3 @@
+In python you can make games
+In python you can store strings
+In python you can make lists
